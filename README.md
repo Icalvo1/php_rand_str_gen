@@ -1,2 +1,1 @@
-# php_rand_str_gen
-php snippets
+Random repository where I can store cool things I learn in php
